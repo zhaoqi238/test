@@ -1,4 +1,8 @@
 hello, world!
 11111
 dev branch changed!
+<<<<<<< HEAD
 change2
+=======
+local changed!
+>>>>>>> 23522a56d30cda5265bd7920aef4fb590fddccf0
